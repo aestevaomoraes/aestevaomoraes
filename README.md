@@ -35,6 +35,13 @@ Focused on:
 
 ---
 
+## 🏆 Certifications
+
+- 🎓 Data Scientist Career Track – DataCamp *(in progress)*
+- 🎓 Associate Data Analyst in SQL – DataCamp  
+  🔗 [https://www.datacamp.com/certificate/SEU_CERTIFICADO](https://www.datacamp.com/statement-of-accomplishment/track/cce554786ac0d671797b832565896217fdb595bd?raw=1)
+  
+---
 ## 📈 Featured Projects
 
 🔹 **Customer Churn Prediction**
