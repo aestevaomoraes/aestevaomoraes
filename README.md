@@ -35,7 +35,7 @@ Focused on:
 
 ---
 
-## 🏆 Certifications
+## 🏆 Key Certifications
 
 
 - <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/datacamp.svg" width="20"/> **DataCamp**
@@ -47,6 +47,20 @@ Focused on:
   - Formação Completa em Power BI
   - Power BI Especialista
 
+-----
+
+## 🏆 Key Certifications
+
+- <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/datacamp.svg" width="20"/> **DataCamp**
+
+  - 🎓 [Associate Data Analyst in SQL](https://www.datacamp.com/statement-of-accomplishment/track/cce554786ac0d671797b832565896217fdb595bd?raw=1)
+  - 🎓 Data Scientist Career Track *(in progress)*
+
+- 🎓 **Datab**
+
+  - Formação Completa em Power BI  
+  - Power BI Especialista
+  - 
 ---
 ## 📈 Featured Projects
 
