@@ -45,6 +45,7 @@ Focused on:
     
 - <img src="https://tse3.mm.bing.net/th/id/OIP.-73CoVx8P1lBOoMk8ZZlKwAAAA?rs=1&pid=ImgDetMain&o=7&rm=3" width="20"/> **Datab**
   - Formação Completa em Power BI
+  - Power BI Especialista
 
 ---
 ## 📈 Featured Projects
