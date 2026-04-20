@@ -55,7 +55,7 @@ Focused on:
 
 ## 📫 Contact
 
-- LinkedIn: (https://www.linkedin.com/in/antonio-neto-09518686/)
+- LinkedIn: ([antonio-neto]https://www.linkedin.com/in/antonio-neto-09518686/)
 - Email: (aestevao@gamil.com)
 
 ---
