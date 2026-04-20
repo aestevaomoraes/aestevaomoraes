@@ -38,8 +38,9 @@ Focused on:
 ## 🏆 Certifications
 
 - 🎓 Data Scientist Career Track – DataCamp *(in progress)*
-- 🎓 Associate Data Analyst in SQL – DataCamp  
-  🔗 [Associate Data Analyst in SQL](https://www.datacamp.com/statement-of-accomplishment/track/cce554786ac0d671797b832565896217fdb595bd?raw=1)
+- 🎓 Associate Data Analyst in SQL – DataCamp
+- - <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/datacamp.svg" width="20"/> Writing Functions in Python – DataCamp
+  🎓 [Associate Data Analyst in SQL](https://www.datacamp.com/statement-of-accomplishment/track/cce554786ac0d671797b832565896217fdb595bd?raw=1)
   
 ---
 ## 📈 Featured Projects
