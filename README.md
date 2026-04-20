@@ -42,6 +42,9 @@ Focused on:
 
   - 🎓 [Associate Data Analyst in SQL](https://www.datacamp.com/statement-of-accomplishment/track/cce554786ac0d671797b832565896217fdb595bd?raw=1)
   - 🎓 Data Scientist Career Track – DataCamp *(in progress)*
+    
+- <img src="[https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/datacamp.svg](https://th.bing.com/th/id/OIP.Tsokc3UyJeb9El-b3EXedAAAAA?w=108&h=108&c=1&bgcl=dacc95&r=0&o=7&pid=ImgRC&rm=3)" width="20"/> **Datab**
+  - Formação Completa em Power BI
 
 ---
 ## 📈 Featured Projects
