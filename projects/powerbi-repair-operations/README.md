@@ -1,9 +1,8 @@
-
 # 🔧 Repair Operations Dashboard
 
 ## 🎯 Objective
 
-Monitor and analyze repair operations to improve efficiency, reduce delays, and optimize resource allocation.
+Monitor and analyze repair operations to improve efficiency, reduce delays, and optimize resource allocation across Brazil.
 
 ---
 
@@ -11,16 +10,21 @@ Monitor and analyze repair operations to improve efficiency, reduce delays, and 
 
 ![dashboard](../../assets/repair.gif)
 
+---
+
 ## 🧩 Data Model
 
 ![data-model](../../assets/modelagem-repair.PNG)
+
+This model follows a star schema design, with a central fact table connected to multiple dimension tables, optimized for analytical queries and performance.
+
 ---
 
 ## 🧠 Business Context
 
-This dashboard was developed to support operational teams in tracking repair activities, identifying bottlenecks, and improving service performance.
+This dashboard provides a nationwide view of open repair requests, supporting technical managers in monitoring operations by client, service station, and region.
 
-Due to data privacy policies, the dataset cannot be shared.
+It enables better control of service performance, identification of delays, and improved decision-making.
 
 ---
 
@@ -35,29 +39,32 @@ Due to data privacy policies, the dataset cannot be shared.
 
 ## 📈 Key Metrics
 
-- Number of repairs completed  
-- Average repair time  
-- Delay rate  
-- Performance by region / team  
+- Total Repairs  
+- Mean Time to Repair (MTTR)  
+- Backlog of Open Requests  
+- SLA Compliance Rate  
+- Performance by Region / Team  
 
 ---
 
 ## 💡 Key Insights
 
-- Identification of delays in specific regions  
-- Teams with higher efficiency  
-- Seasonal variation in repair demand  
+- Operational bottlenecks identified in specific regions  
+- Variability in team performance across locations  
+- High backlog concentration in critical areas  
+- Seasonal patterns affecting repair demand  
 
 ---
 
 ## 🚀 Business Impact
 
-- Improved operational visibility  
-- Faster decision-making  
-- Better resource allocation  
+- Increased visibility of operational performance  
+- Faster identification of delays and inefficiencies  
+- Support for data-driven decision-making  
+- Improved resource allocation across regions  
 
 ---
 
 ## 🔒 Data Disclaimer
 
-The dataset is not publicly available due to confidentiality.
+The dataset is not publicly available due to confidentiality and data protection policies.
