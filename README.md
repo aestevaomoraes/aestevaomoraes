@@ -49,7 +49,23 @@ Data professional transitioning into Data Science, combining analytical thinking
 
 # 📈 Featured Projects
 
----
+## 🔹 Repair Operations Dashboard
+
+📊 Monitoramento de operações de reparo e performance
+
+![repair-demo](./assets/repair.gif)
+
+**🔧 Tech:**
+- Power BI  
+- DAX  
+- Data Modeling  
+
+**💡 Destaques:**
+- Análise de eficiência operacional  
+- Identificação de gargalos  
+- Monitoramento de SLA (MTTR)  
+
+👉 [View Project](./projects/powerbi-repair-operations)
 
 ## 🔹 Customer Churn Prediction
 
