@@ -13,7 +13,7 @@ Monitor and analyze repair operations to improve efficiency, reduce delays, and 
 
 ## 🧩 Data Model
 
-![data-model](../../assets/modelagem-repair.png)
+![data-model](../../assets/modelagem-repair.PNG)
 ---
 
 ## 🧠 Business Context
