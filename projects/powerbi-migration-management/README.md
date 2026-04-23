@@ -15,7 +15,7 @@ Monitor and manage the migration of proprietary circuits to partner providers, e
 
 ## 🧩 Data Model
 
-![data-model](../../assets/model-migration.png)
+![data-model](../../assets/model-migration.PNG)
 
 This model follows a star schema structure optimized for operational and performance analysis.
 
