@@ -21,6 +21,39 @@ This model follows a star schema structure optimized for operational and perform
 
 ---
 
+## ⚙️ Automation – Power Automate
+
+![automation](../../assets/migration-automation.gif)
+
+This project includes an automated workflow built with Power Automate to operationalize the migration process.
+
+### 🔄 What the automation does
+
+- Extracts backlog data from the migration dashboard  
+- Identifies all pending service orders (OS) by partner provider  
+- Prioritizes orders based on business rules (priority first)  
+- Groups service orders by partner  
+- Sends automated and personalized emails to each provider  
+
+### 📧 Email Distribution Logic
+
+- Each partner receives only their own pending service orders  
+- Orders are sorted by priority and urgency  
+- The email contains a structured list of OS for execution  
+
+### 🚀 Business Impact
+
+- Eliminates manual follow-up process  
+- Ensures faster communication with partners  
+- Reduces operational delays  
+- Improves SLA compliance  
+
+### 🧠 What this demonstrates
+
+- Integration between Power BI and Power Automate  
+- End-to-end data workflow (analysis → action)  
+- Real-world process automation  
+
 ## 🧠 Business Context
 
 This dashboard supports the management of circuit migration from internal infrastructure to partner providers.
