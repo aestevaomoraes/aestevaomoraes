@@ -7,58 +7,107 @@
 
 ## 🚀 About Me
 
-Data professional transitioning into Data Science, with strong experience in operations and strategic decision-making.
+Data professional transitioning into Data Science, combining analytical thinking with real-world business experience.
 
-Focused on:
-- Turning data into business insights
-- Building predictive models
-- Solving real-world problems with data
+💡 I focus on:
+- Turning data into actionable insights  
+- Building predictive models that drive decisions  
+- Solving business problems with data  
 
 ---
 
 ## 🧠 Tech Stack
 
-**Data Science**
+### Data Science
 - Python (pandas, numpy, scikit-learn)
-- Machine Learning
-- Statistics
+- Machine Learning (Regression, Classification)
+- Statistics & Hypothesis Testing  
 
-**Data Analytics**
-- SQL
-- Power BI
-- Excel
+### Data Analytics
+- SQL (Joins, CTEs, Window Functions)
+- Power BI (Dashboards, DAX)
+- Excel  
 
-**Tools & Engineering**
-- Git & GitHub
-- VS Code
-- Docker (learning)
+### Tools & Engineering
+- Git & GitHub  
+- VS Code  
+- Docker *(learning)*  
 
 ---
 
 ## 🏆 Key Certifications
 
+- 🎓 DataCamp  
+  - Associate Data Analyst in SQL  
+  - Associate Data Scientist in Python *(in progress)*  
 
-- <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/datacamp.svg" width="20"/> **DataCamp**
+- 🎓 Datab
+  - Formação Completa em Power BI 
+  - Power BI Specialist  
 
-  - 🎓 [Associate Data Analyst in SQL](https://www.datacamp.com/statement-of-accomplishment/track/cce554786ac0d671797b832565896217fdb595bd?raw=1)
-  - 🎓 Associate Data Scientist in Python – DataCamp *(in progress)*
-    
-- <img src="https://tse3.mm.bing.net/th/id/OIP.-73CoVx8P1lBOoMk8ZZlKwAAAA?rs=1&pid=ImgDetMain&o=7&rm=3" width="20"/> **Datab**
-  - Formação Completa em Power BI
-  - Power BI Especialista
+---
 
------
+# 📈 Featured Projects
 
+---
 
-## 📈 Featured Projects
+## 🔹 Customer Churn Prediction
 
-🔹 **Customer Churn Prediction**
-- Machine Learning model to predict customer churn
-- Techniques: Random Forest, Feature Engineering
+📊 Predict which customers are likely to cancel a service  
 
-🔹 **Real Estate Price Prediction**
-- Regression model for price estimation
-- Metrics: RMSE, R²
+![churn-demo](./assets/churn.gif)
+
+### 🔧 Tech
+- Python, pandas, scikit-learn  
+
+### 📈 Results
+- Model accuracy: XX%  
+- Key churn drivers identified  
+
+### 💡 Business Impact
+- Enables proactive retention strategies  
+- Reduces customer churn risk  
+
+👉 [View Project](./projects/churn)
+
+---
+
+## 🔹 Real Estate Price Prediction
+
+🏠 Estimate property prices using regression models  
+
+![price-demo](./assets/price.gif)
+
+### 🔧 Tech
+- Python, Regression Models  
+
+### 📈 Results
+- RMSE: XX  
+- R²: XX  
+
+### 💡 Business Impact
+- Supports pricing decisions  
+- Improves valuation accuracy  
+
+👉 [View Project](./projects/real-estate)
+
+---
+
+## 🔹 Power BI Sales Dashboard
+
+📊 Interactive dashboard for business insights  
+
+![dashboard-demo](./assets/powerbi.gif)
+
+### 🔧 Tech
+- Power BI, DAX  
+
+### 💡 Highlights
+- KPI tracking  
+- Dynamic filters  
+- Drill-down analysis  
+
+👉 [View Project](./projects/powerbi-dashboard)
 
 ---
 
@@ -70,11 +119,11 @@ Focused on:
 
 ## 📫 Contact
 
-- LinkedIn: [Antonio Neto](https://www.linkedin.com/in/antonio-neto-09518686/)
-- Email: aestevao@gmail.com
+- LinkedIn: [Antonio Neto](https://www.linkedin.com/in/antonio-neto-09518686/)  
+- Email: aestevao@gmail.com  
 
 ---
 
 ## 🎯 Career Goal
 
-To work as a Data Scientist or Data Analyst, generating business value through data and machine learning.
+To work as a Data Scientist or Data Analyst, delivering measurable business value through data and machine learning.
