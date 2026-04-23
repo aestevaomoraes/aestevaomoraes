@@ -41,17 +41,19 @@ Data professional transitioning into Data Science, combining analytical thinking
   - Associate Data Analyst in SQL  
   - Associate Data Scientist in Python *(in progress)*  
 
-- 🎓 Datab
-  - Formação Completa em Power BI 
+- 🎓 Datab  
+  - Formação Completa em Power BI  
   - Power BI Specialist  
 
 ---
 
 # 📈 Featured Projects
 
+---
+
 ## 🔹 Repair Operations Dashboard
 
-📊 Monitoramento de operações de reparo e performance
+📊 Nationwide monitoring of repair operations and service performance  
 
 ![repair-demo](./assets/repair.gif)
 
@@ -60,12 +62,47 @@ Data professional transitioning into Data Science, combining analytical thinking
 - DAX  
 - Data Modeling  
 
-**💡 Destaques:**
-- Análise de eficiência operacional  
-- Identificação de gargalos  
-- Monitoramento de SLA (MTTR)  
+**📈 Key Metrics:**
+- Mean Time to Repair (MTTR)  
+- Backlog of Open Requests  
+- SLA Compliance  
+- Performance by Region  
+
+**💡 Highlights:**
+- Identification of operational bottlenecks  
+- Regional performance analysis  
+- SLA monitoring and delay detection  
 
 👉 [View Project](./projects/powerbi-repair-operations)
+
+---
+
+## 🔹 Circuit Migration Dashboard
+
+📊 Monitoring of circuit migration to partner providers with focus on SLA, backlog, and operational performance  
+
+![migration-demo](./assets/migration.gif)
+
+**🔧 Tech:**
+- Power BI  
+- DAX  
+- Data Modeling  
+
+**📈 Key Metrics:**
+- Total Service Orders (OS)  
+- Backlog of Open Orders  
+- Mean Time to Install (TMI)  
+- SLA Compliance  
+
+**💡 Highlights:**
+- Migration performance by partner providers  
+- Backlog and delay analysis  
+- SLA monitoring and execution time tracking  
+- Geographic distribution of service orders  
+
+👉 [View Project](./projects/powerbi-migration-management)
+
+---
 
 ## 🔹 Customer Churn Prediction
 
@@ -73,14 +110,14 @@ Data professional transitioning into Data Science, combining analytical thinking
 
 ![churn-demo](./assets/churn.gif)
 
-### 🔧 Tech
+**🔧 Tech:**
 - Python, pandas, scikit-learn  
 
-### 📈 Results
+**📈 Results:**
 - Model accuracy: XX%  
 - Key churn drivers identified  
 
-### 💡 Business Impact
+**💡 Business Impact:**
 - Enables proactive retention strategies  
 - Reduces customer churn risk  
 
@@ -94,14 +131,14 @@ Data professional transitioning into Data Science, combining analytical thinking
 
 ![price-demo](./assets/price.gif)
 
-### 🔧 Tech
+**🔧 Tech:**
 - Python, Regression Models  
 
-### 📈 Results
+**📈 Results:**
 - RMSE: XX  
 - R²: XX  
 
-### 💡 Business Impact
+**💡 Business Impact:**
 - Supports pricing decisions  
 - Improves valuation accuracy  
 
@@ -109,18 +146,24 @@ Data professional transitioning into Data Science, combining analytical thinking
 
 ---
 
-## 🔹 Power BI Sales Dashboard
+## 🔹 Sales Performance Dashboard
 
-📊 Interactive dashboard for business insights  
+📊 Business performance analysis through interactive dashboards  
 
 ![dashboard-demo](./assets/powerbi.gif)
 
-### 🔧 Tech
-- Power BI, DAX  
+**🔧 Tech:**
+- Power BI  
+- DAX  
 
-### 💡 Highlights
+**📈 Key Metrics:**
+- Revenue  
+- Sales Growth  
+- Profit  
+
+**💡 Highlights:**
 - KPI tracking  
-- Dynamic filters  
+- Dynamic filtering  
 - Drill-down analysis  
 
 👉 [View Project](./projects/powerbi-dashboard)
