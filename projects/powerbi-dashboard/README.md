@@ -8,7 +8,7 @@ Develop an interactive dashboard to support business decision-making through dat
 
 ## 📊 Dashboard Preview
 
-![dashboard](../../assets/powerbi.gif)
+![dashboard](../../assets/repair.gif)
 
 ---
 
