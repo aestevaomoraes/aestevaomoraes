@@ -87,6 +87,7 @@ Data professional transitioning into Data Science, combining analytical thinking
 - Power BI  
 - DAX  
 - Data Modeling  
+- Power Automate  
 
 **📈 Key Metrics:**
 - Total Service Orders (OS)  
@@ -99,6 +100,11 @@ Data professional transitioning into Data Science, combining analytical thinking
 - Backlog and delay analysis  
 - SLA monitoring and execution time tracking  
 - Geographic distribution of service orders  
+
+**⚙️ Automation:**
+- Automated distribution of backlog OS to partner providers  
+- Priority-based email notifications  
+- End-to-end workflow (analysis → action)  
 
 👉 [View Project](./projects/powerbi-migration-management)
 
