@@ -10,6 +10,9 @@ Develop an interactive dashboard to support business decision-making through dat
 
 ![dashboard](../../assets/repair.gif)
 
+## 🧩 Data Model
+
+![data-model](../../assets/modelagem-repair.PNG)
 ---
 
 ## 🧠 Context
