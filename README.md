@@ -45,6 +45,13 @@ Data professional transitioning into Data Science, combining analytical thinking
   - Formação Completa em Power BI  
   - Power BI Specialist  
 
+- 🎓 Udemy
+  -  Estatística para Análise de Dados com Python - Data Scientist. Luciano Galdino
+  -  Álgebra Linear com Python para Machine Learning e Modelagem - Data Scientist. Luciano Galdino
+ 
+- 🎓 LinkedIn Learning
+  -  Fundamentos de Estatística (1,2,3) Eddie Davila
+
 ---
 
 # 📈 Featured Projects
