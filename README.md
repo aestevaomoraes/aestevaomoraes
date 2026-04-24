@@ -73,7 +73,8 @@ Data professional transitioning into Data Science, combining analytical thinking
 - Regional performance analysis  
 - SLA monitoring and delay detection  
 
-👉 [View Project](./projects/powerbi-repair-operations)
+🔎 **[View Project Details](./projects/powerbi-repair-operations)**
+
 
 ---
 
@@ -99,7 +100,7 @@ Data professional transitioning into Data Science, combining analytical thinking
 - Partner performance analysis  
 - Repair and scheduling tracking  
 - Operational bottleneck detection  
-
+🔎 **[View Project Details](./projects/powerbi-cpe-operations)**
 👉 [View Project](./projects/powerbi-cpe-operations)
 ---
 
@@ -132,6 +133,7 @@ Data professional transitioning into Data Science, combining analytical thinking
 - Priority-based email notifications  
 - End-to-end workflow (analysis → action)  
 
+🔎 **[View Project Details](./projects/powerbi-migration-management)**
 👉 [View Project](./projects/powerbi-migration-management)
 
 ---
