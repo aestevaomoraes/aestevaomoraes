@@ -1,18 +1,20 @@
 # 👋 Hello, I'm Antonio Estevão Moraes
 
-🎯 Data Scientist | Machine Learning | Data Analytics  
+🎯 Data & Operations Analyst | Telecom | Machine Learning
 📍 Brazil  
 
 ---
 
 ## 🚀 About Me
 
-Data professional transitioning into Data Science, combining analytical thinking with real-world business experience.
+Data & Operations professional with experience in the telecom industry, focused on improving operational efficiency through data analysis, automation, and process optimization.
+
+I work at the intersection of operations and analytics, supporting decision-making with data-driven insights and performance monitoring.
 
 💡 I focus on:
-- Turning data into actionable insights  
-- Building predictive models that drive decisions  
-- Solving business problems with data  
+- Improving operational performance (SLA, backlog, MTTR)
+- Automating processes and reducing manual workload
+- Turning data into actionable insights for decision-making  
 
 ---
 
@@ -31,7 +33,7 @@ Data professional transitioning into Data Science, combining analytical thinking
 ### Tools & Engineering
 - Git & GitHub  
 - VS Code  
-- Docker *(learning)*  
+- Docker (basic knowledge)  
 
 ---
 
@@ -78,9 +80,9 @@ Data professional transitioning into Data Science, combining analytical thinking
 - Performance by Region  
 
 **💡 Highlights:**
-- Identification of operational bottlenecks  
+- Identification of operational bottlenecks impacting SLA performance 
 - Regional performance analysis  
-- SLA monitoring and delay detection  
+- SLA monitoring enabling faster response to delays  
 
 🔎 **[View Project Details](./projects/powerbi-repair-operations)**
 
@@ -108,7 +110,7 @@ Data professional transitioning into Data Science, combining analytical thinking
 - CPE lifecycle management  
 - Partner performance analysis  
 - Repair and scheduling tracking  
-- Operational bottleneck detection  
+- Identification of inefficiencies in equipment lifecycle and operations  
 🔎 **[View Project Details](./projects/powerbi-cpe-operations)**
 
 ---
@@ -140,7 +142,7 @@ Data professional transitioning into Data Science, combining analytical thinking
 **⚙️ Automation:**
 - Automated distribution of backlog OS to partner providers  
 - Priority-based email notifications  
-- End-to-end workflow (analysis → action)  
+- End-to-end workflow automation (analysis → decision → execution)
 
 🔎 **[View Project Details](./projects/powerbi-migration-management)**
 
@@ -153,15 +155,21 @@ Data professional transitioning into Data Science, combining analytical thinking
 
 ![churn-demo](./assets/churn.gif)
 
+**💼 Operational Impact:**
+- Reduced manual workload through automated task distribution  
+- Improved SLA visibility and prioritization of service orders  
+- Enabled faster operational decision-making
+  
 **🔧 Tech:**
 - Python, pandas, scikit-learn  
 
 **📈 Results:**
-- Model accuracy: XX%  
+- Predictive model to identify high-risk customers  
+- Key churn drivers identified (usage patterns, service issues)    
 - Key churn drivers identified  
 
 **💡 Business Impact:**
-- Enables proactive retention strategies  
+- Supports proactive retention strategies targeting high-risk customers  
 - Reduces customer churn risk  
 
 👉 [View Project](./projects/churn)
@@ -178,8 +186,8 @@ Data professional transitioning into Data Science, combining analytical thinking
 - Python, Regression Models  
 
 **📈 Results:**
-- RMSE: XX  
-- R²: XX  
+- Regression model for price estimation  
+- Evaluation using RMSE and R² metrics  
 
 **💡 Business Impact:**
 - Supports pricing decisions  
@@ -205,7 +213,7 @@ Data professional transitioning into Data Science, combining analytical thinking
 - Profit  
 
 **💡 Highlights:**
-- KPI tracking  
+- KPI tracking to support business performance monitoring  
 - Dynamic filtering  
 - Drill-down analysis  
 
@@ -228,4 +236,4 @@ Data professional transitioning into Data Science, combining analytical thinking
 
 ## 🎯 Career Goal
 
-To work as a Data Scientist or Data Analyst, delivering measurable business value through data and machine learning.
+To work in data-driven roles, delivering measurable business impact through analytics, automation, and machine learning.
