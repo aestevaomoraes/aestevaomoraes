@@ -171,7 +171,7 @@ I work at the intersection of operations and analytics, supporting decision-maki
 
 📊 Analyze whether premium customers generate higher average revenue (ARPU) compared to standard customers  
 
-![arpu-demo](./notebooks/arpu_distribution.png)
+![ARPU Distribution](https://raw.githubusercontent.com/aestevaomoraes/t-test-salary-analysis/main/notebooks/arpu_distribution.png)
 
 **💼 Business Impact:**
 - Supports strategic decisions on upsell and pricing  
