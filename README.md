@@ -245,16 +245,12 @@ I work at the intersection of operations and analytics, supporting decision-maki
 
 ## 📫 Contact
 
-- LinkedIn: [Antonio Neto](https://www.linkedin.com/in/antonio-neto-09518686/)  
-- Email: aestevao@gmail.com  
-
 💬 Feel free to reach out — I’m open to opportunities and collaborations.
+- LinkedIn Preferred contact: [Antonio Neto](https://www.linkedin.com/in/antonio-neto-09518686/)
+  
+- Email (secondary): aestevao@gmail.com  
 
-👉 Preferred contact:  
-LinkedIn: https://www.linkedin.com/in/antonio-neto-09518686
 
-📧 Email (secondary):  
-aestevao@gmail.com
 ---
 
 ## 🎯 Career Goal
