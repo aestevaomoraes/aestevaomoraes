@@ -157,7 +157,7 @@ I work at the intersection of operations and analytics, supporting decision-maki
 - Priority-based email notifications  
 - End-to-end workflow automation (analysis → decision → execution)
 
-**💼 Operational Impact:
+**💼 Operational Impact:**
 - Reduced manual workload through automation  
 - Improved prioritization of service orders  
 - Increased operational efficiency and response time
