@@ -101,7 +101,7 @@ Data professional transitioning into Data Science, combining analytical thinking
 - Repair and scheduling tracking  
 - Operational bottleneck detection  
 🔎 **[View Project Details](./projects/powerbi-cpe-operations)**
-👉 [View Project](./projects/powerbi-cpe-operations)
+
 ---
 
 ## 🔹 Circuit Migration Dashboard
@@ -134,7 +134,7 @@ Data professional transitioning into Data Science, combining analytical thinking
 - End-to-end workflow (analysis → action)  
 
 🔎 **[View Project Details](./projects/powerbi-migration-management)**
-👉 [View Project](./projects/powerbi-migration-management)
+
 
 ---
 
