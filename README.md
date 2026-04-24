@@ -1,16 +1,24 @@
 # 👋 Hello, I'm Antonio Estevão Moraes
 
-🎯 Data & Operations Analyst | Telecom | Machine Learning
+🎯 Telecom Operations Specialist | Data & Analytics | AI & Automation
+
 📍 Brazil  
 
 ---
 
 ## 🚀 About Me
 
-Data & Operations professional with experience in the telecom industry, focused on improving operational efficiency through data analysis, automation, and process optimization.
+Telecom Operations Specialist with strong experience in data analysis, automation, and process optimization, focused on improving operational efficiency through data analysis, automation, and process optimization.
 
 I work at the intersection of operations and analytics, supporting decision-making with data-driven insights and performance monitoring.
 
+## 💼 Professional Background
+
+- 25+ years of experience in telecom operations  
+- Experience in operational management and performance monitoring  
+- Strong background in SLA, backlog control, and service operations  
+- Experience leading and supporting operational and data-driven projects
+  
 💡 I focus on:
 - Improving operational performance (SLA, backlog, MTTR)
 - Automating processes and reducing manual workload
@@ -19,6 +27,11 @@ I work at the intersection of operations and analytics, supporting decision-maki
 ---
 
 ## 🧠 Tech Stack
+
+### Operations & Performance
+- SLA Monitoring  
+- Backlog Management  
+- Operational KPIs
 
 ### Data Science
 - Python (pandas, numpy, scikit-learn)
@@ -58,7 +71,7 @@ I work at the intersection of operations and analytics, supporting decision-maki
 
 ---
 
-# 📈 Featured Projects
+# 📈 Operational & Data Projects
 
 ---
 
@@ -144,6 +157,11 @@ I work at the intersection of operations and analytics, supporting decision-maki
 - Priority-based email notifications  
 - End-to-end workflow automation (analysis → decision → execution)
 
+**💼 Operational Impact:
+- Reduced manual workload through automation  
+- Improved prioritization of service orders  
+- Increased operational efficiency and response time
+
 🔎 **[View Project Details](./projects/powerbi-migration-management)**
 
 
@@ -155,10 +173,9 @@ I work at the intersection of operations and analytics, supporting decision-maki
 
 ![churn-demo](./assets/churn.gif)
 
-**💼 Operational Impact:**
-- Reduced manual workload through automated task distribution  
-- Improved SLA visibility and prioritization of service orders  
-- Enabled faster operational decision-making
+**💼 Business Impact:
+- Enables targeted retention strategies for high-risk customers  
+- Supports data-driven decision-making in customer management  
   
 **🔧 Tech:**
 - Python, pandas, scikit-learn  
@@ -166,7 +183,6 @@ I work at the intersection of operations and analytics, supporting decision-maki
 **📈 Results:**
 - Predictive model to identify high-risk customers  
 - Key churn drivers identified (usage patterns, service issues)    
-- Key churn drivers identified  
 
 **💡 Business Impact:**
 - Supports proactive retention strategies targeting high-risk customers  
@@ -213,7 +229,7 @@ I work at the intersection of operations and analytics, supporting decision-maki
 - Profit  
 
 **💡 Highlights:**
-- KPI tracking to support business performance monitoring  
+- KPI tracking to support strategic business performance monitoring
 - Dynamic filtering  
 - Drill-down analysis  
 
