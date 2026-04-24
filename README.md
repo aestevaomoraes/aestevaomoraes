@@ -77,6 +77,32 @@ Data professional transitioning into Data Science, combining analytical thinking
 
 ---
 
+## 🔹 CPE Operations Dashboard
+
+📊 Monitoring of telecom equipment lifecycle and service operations  
+
+![cpe-demo](./assets/cpe.gif)
+
+**🔧 Tech:**
+- Power BI  
+- DAX  
+- Data Modeling  
+
+**📈 Key Metrics:**
+- Service Orders (OS)  
+- Installations vs Removals  
+- Repair Status  
+- Scheduling Performance  
+
+**💡 Highlights:**
+- CPE lifecycle management  
+- Partner performance analysis  
+- Repair and scheduling tracking  
+- Operational bottleneck detection  
+
+👉 [View Project](./projects/powerbi-cpe-operations)
+---
+
 ## 🔹 Circuit Migration Dashboard
 
 📊 Monitoring of circuit migration to partner providers with focus on SLA, backlog, and operational performance  
