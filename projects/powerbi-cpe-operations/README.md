@@ -15,7 +15,7 @@ Manage and monitor Customer Premises Equipment (CPE) operations, providing full 
 
 ## 🧩 Data Model
 
-![data-model](../../assets/model-cpe.png)
+![data-model](../../assets/model-cpe.PNG)
 
 This model follows a star schema structure designed for operational analysis and performance tracking.
 
