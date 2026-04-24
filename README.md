@@ -167,28 +167,28 @@ I work at the intersection of operations and analytics, supporting decision-maki
 
 ---
 
-## 🔹 Customer Churn Prediction
+## 🔹 Telecom Revenue Analysis (T-Test)
 
-📊 Predict which customers are likely to cancel a service  
+📊 Analyze whether premium customers generate higher average revenue (ARPU) compared to standard customers  
 
-![churn-demo](./assets/churn.gif)
+![arpu-demo](./notebooks/arpu_distribution.png)
 
 **💼 Business Impact:**
-- Enables targeted retention strategies for high-risk customers  
-- Supports data-driven decision-making in customer management  
-  
+- Supports strategic decisions on upsell and pricing  
+- Enables better customer segmentation based on revenue behavior  
+
 **🔧 Tech:**
-- Python, pandas, scikit-learn  
+- Python, pandas, SciPy, matplotlib  
 
 **📈 Results:**
-- Predictive model to identify high-risk customers  
-- Key churn drivers identified (usage patterns, service issues)    
+- Statistically significant difference identified between premium and standard customers  
+- Premium segment shows higher average revenue (ARPU)  
 
 **💡 Business Impact:**
-- Supports proactive retention strategies targeting high-risk customers  
-- Reduces customer churn risk  
+- Supports data-driven upsell strategies  
+- Helps optimize revenue and customer targeting  
 
-👉 [View Project](./projects/churn)
+👉 [View Project](https://github.com/aestevaomoraes/t-test-salary-analysis)
 
 ---
 
