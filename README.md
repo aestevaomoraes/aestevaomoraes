@@ -173,7 +173,7 @@ I work at the intersection of operations and analytics, supporting decision-maki
 
 ![churn-demo](./assets/churn.gif)
 
-**💼 Business Impact:
+**💼 Business Impact:**
 - Enables targeted retention strategies for high-risk customers  
 - Supports data-driven decision-making in customer management  
   
