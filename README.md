@@ -49,6 +49,7 @@ Data professional transitioning into Data Science, combining analytical thinking
   -  Estatística para Análise de Dados com Python - Data Scientist. Luciano Galdino
   -  Álgebra Linear com Python para Machine Learning e Modelagem - Data Scientist. Luciano Galdino
   -  Python Data Science: Data Prep & EDA with Python - Data Scientist. Alice Zhao
+  -  SQL para Análise de Dados - Midori Toyota
  
 - 🎓 LinkedIn Learning
   -  Fundamentos de Estatística (1,2,3) Eddie Davila
