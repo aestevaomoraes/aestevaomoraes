@@ -192,24 +192,23 @@ I work at the intersection of operations and analytics, supporting decision-maki
 
 ---
 
-## 🔹 Real Estate Price Prediction
+## 🔹 Telecom Operations Analytics (SQL + Python)
 
-🏠 Estimate property prices using regression models  
-
-![price-demo](./assets/price.gif)
+📊 Analyze operational performance and SLA metrics in a telecom environment  
 
 **🔧 Tech:**
-- Python, Regression Models  
+- Python, SQL, Pandas  
 
 **📈 Results:**
-- Regression model for price estimation  
-- Evaluation using RMSE and R² metrics  
+- Identification of SLA bottlenecks  
+- Analysis of backlog and resolution times  
+- Operational performance metrics generated  
 
 **💡 Business Impact:**
-- Supports pricing decisions  
-- Improves valuation accuracy  
+- Supports SLA monitoring and operational efficiency  
+- Enables data-driven decisions in telecom operations  
 
-👉 [View Project](./projects/real-estate)
+👉 [View Project](https://github.com/aestevaomoraes/projeto-analise-bd-online)
 
 ---
 
