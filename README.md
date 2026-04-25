@@ -192,21 +192,24 @@ I work at the intersection of operations and analytics, supporting decision-maki
 
 ---
 
-## 🔹 Telecom Operations Analytics (SQL + Python)
+## 🔹 Telecom Operations Analytics (AI + Automation)
 
-📊 Analyze operational performance and SLA metrics in a telecom environment  
+🤖 Automate operational analysis and SLA reporting using AI and prompt engineering  
 
 **🔧 Tech:**
-- Python, SQL, Pandas  
+- Python, Pandas  
+- Prompt Engineering (AI - Antigravity)  
+- Automation workflows  
 
 **📈 Results:**
-- Identification of SLA bottlenecks  
-- Analysis of backlog and resolution times  
-- Operational performance metrics generated  
+- Automated generation of operational reports  
+- Faster SLA analysis and decision support  
+- Reduction of manual analysis effort  
 
 **💡 Business Impact:**
-- Supports SLA monitoring and operational efficiency  
-- Enables data-driven decisions in telecom operations  
+- Improves operational efficiency  
+- Enables faster and more consistent reporting  
+- Supports data-driven decisions in telecom operations  
 
 👉 [View Project](https://github.com/aestevaomoraes/projeto-analise-bd-online)
 
