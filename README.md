@@ -130,7 +130,7 @@ I work at the intersection of operations and analytics, supporting decision-maki
 
 ## 🔹 Circuit Migration Dashboard
 
-📊 Monitoring of circuit migration to partner providers with focus on SLA, backlog, and operational performance  
+📊 Monitoring the migration of proprietary circuits to partner providers, focusing on SLA, backlog, and operational performance.  
 
 ![migration-demo](./assets/migration.gif)
 
