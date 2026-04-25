@@ -17,7 +17,7 @@ I work at the intersection of operations and analytics, supporting decision-maki
 - 25+ years of experience in telecom operations  
 - Experience in operational management and performance monitoring  
 - Strong background in SLA, backlog control, and service operations  
-- Experience leading and supporting operational and data-driven projects
+- Experience leading and supporting teams and projects through operational and data-driven initiatives.
   
 💡 I focus on:
 - Improving operational performance (SLA, backlog, MTTR)
