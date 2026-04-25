@@ -192,7 +192,7 @@ I work at the intersection of operations and analytics, supporting decision-maki
 
 ---
 
-🔹 Telecom Operations Analytics (AI + Automation)
+## 🔹 Telecom Operations Analytics (AI + Automation)
 
 🤖 Automate operational analysis, SLA reporting, and email delivery using AI and prompt engineering  
 
