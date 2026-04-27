@@ -227,27 +227,29 @@ I work at the intersection of operations and analytics, supporting decision-maki
 
 ---
 
-## 🔹 Sales Performance Dashboard
+## 🔹 DuckDB SQL Analytics Portfolio
 
-📊 Business performance analysis through interactive dashboards  
+🧠 High-performance data analysis using SQL with DuckDB  
 
-![dashboard-demo](./assets/powerbi.gif)
+![sql-demo](./assets/duckdb.gif)
 
 **🔧 Tech:**
-- Power BI  
-- DAX  
+- SQL (DuckDB)  
+- Analytical Queries  
+- Data Modeling  
 
 **📈 Key Metrics:**
-- Revenue  
-- Sales Growth  
-- Profit  
+- Aggregations (SUM, AVG, COUNT)  
+- Window Functions  
+- Query Optimization  
 
 **💡 Highlights:**
-- KPI tracking to support strategic business performance monitoring
-- Dynamic filtering  
-- Drill-down analysis  
+- Fast in-memory analytics with DuckDB  
+- Complex queries using window functions  
+- Real-world analytical scenarios  
+- Lightweight and scalable SQL workflows  
 
-👉 [View Project](./projects/powerbi-dashboard)
+👉 [View Project](https://github.com/aestevaomoraes/duckdb-sql-portfolio)
 
 ---
 
