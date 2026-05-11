@@ -65,6 +65,7 @@ I work at the intersection of operations and analytics, supporting decision-maki
   -  Álgebra Linear com Python para Machine Learning e Modelagem - Data Scientist. Luciano Galdino
   -  Python Data Science: Data Prep & EDA with Python - Data Scientist. Alice Zhao
   -  SQL para Análise de Dados - Midori Toyota
+  -  AWS QuickSight: Dashboards Profissionais - Midori Toyota
  
 - 🎓 LinkedIn Learning
   -  Fundamentos de Estatística (1,2,3) Eddie Davila
