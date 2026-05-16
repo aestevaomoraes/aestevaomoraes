@@ -285,7 +285,11 @@ I work at the intersection of operations and analytics, supporting decision-maki
 
 ## 📊 GitHub Stats
 
-![Antonio GitHub Stats](https://github-readme-stats.vercel.app/api?username=aestevaomoraes&show_icons=true&theme=tokyonight&cache_seconds=1800)
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aestevaomoraes&show_icons=true&theme=github_dark&hide_border=true"/>
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aestevaomoraes&layout=compact&theme=github_dark&hide_border=true"/>
+</p>
 
 ---
 
