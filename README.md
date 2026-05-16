@@ -253,10 +253,39 @@ I work at the intersection of operations and analytics, supporting decision-maki
 👉 [View Project](https://github.com/aestevaomoraes/duckdb-sql-portfolio)
 
 ---
+## 🔹 Looker Studio + BigQuery Dashboard
+
+☁️ Modern cloud-based Business Intelligence solution using Google BigQuery and Looker Studio.
+
+![looker-demo](./assets/dashboard.gif)
+
+**🔧 Tech:**
+- Google BigQuery
+- Looker Studio
+- SQL
+- Cloud Analytics
+
+**📈 Features:**
+- Interactive dashboard
+- KPI cards
+- Cloud-based analytics
+- SQL Views
+- Calculated Fields
+- Dynamic filters
+
+**💡 Highlights:**
+- Fully cloud-native BI solution  
+- Professional dashboard design  
+- BigQuery + Looker Studio integration  
+- Modern alternative to desktop BI tools  
+- SQL transformations and business rules implementation  
+
+👉 [View Project](https://github.com/aestevaomoraes/looker-studio-bigquery-dashboard)
+---
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aestevaomoraes&show_icons=true)
+![Antonio GitHub Stats](https://github-readme-stats.vercel.app/api?username=aestevaomoraes&show_icons=true&theme=tokyonight&cache_seconds=1800)
 
 ---
 
