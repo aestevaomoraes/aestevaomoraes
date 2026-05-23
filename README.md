@@ -5,6 +5,14 @@
 📍 Brazil  
 
 ---
+![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Looker Studio](https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=googleanalytics&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Data Science](https://img.shields.io/badge/Data_Science-8A2BE2?style=for-the-badge)
+![Analytics Engineering](https://img.shields.io/badge/Analytics_Engineering-FF6F00?style=for-the-badge)
+---
 
 ## 🚀 About Me
 
