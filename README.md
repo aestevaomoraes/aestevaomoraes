@@ -10,10 +10,11 @@
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Data Science](https://img.shields.io/badge/Data_Science-8A2BE2?style=for-the-badge)
-![Analytics Engineering](https://img.shields.io/badge/Analytics_Engineering-FF6F00?style=for-the-badge)
-![AWS QuickSight](https://img.shields.io/badge/AWS_QuickSight-FF9900?style=for-the-badge&logo=amazonquicksight&logoColor=white)
-![Power Automate](https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white)
+![Data Science](https://img.shields.io/badge/Data_Science-8A2BE2?style=for-the-badge&logo=jupyter&logoColor=white)
+![Analytics Engineering](https://img.shields.io/badge/Analytics_Engineering-FF6F00?style=for-the-badge&logo=dbt&logoColor=white)
+![AWS QuickSight](https://img.shields.io/badge/AWS_QuickSight-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Power Automate](https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge&logo=microsoftpowerautomate&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
 ---
 
