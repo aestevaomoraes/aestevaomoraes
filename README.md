@@ -240,29 +240,42 @@ I work at the intersection of operations and analytics, supporting decision-maki
 
 ---
 
-## 🔹 DuckDB SQL Analytics Portfolio
+## 🔹 Google Analytics Revenue & Conversion Analytics with BigQuery
 
-🧠 High-performance data analysis using SQL with DuckDB  
+📊 Business-oriented analytics project transforming nested Google Analytics data into actionable business insights using BigQuery SQL.
 
-![sql-demo](./assets/duckdb.gif)
+![Project Architecture](https://raw.githubusercontent.com/aestevaomoraes/google-analytics-revenue-conversion-analysis/main/images/project_architecture.png)
 
 **🔧 Tech:**
-- SQL (DuckDB)  
-- Analytical Queries  
-- Data Modeling  
+- Google BigQuery
+- SQL
+- ARRAY
+- STRUCT
+- UNNEST()
+- CTEs
 
-**📈 Key Metrics:**
-- Aggregations (SUM, AVG, COUNT)  
-- Window Functions  
-- Query Optimization  
+**📈 Key Analyses:**
+- Revenue Analysis
+- Conversion Analysis
+- Landing Page Performance
+- Acquisition Channel Performance
+- Device Conversion Analysis
+- User Engagement Analysis
 
 **💡 Highlights:**
-- Fast in-memory analytics with DuckDB  
-- Complex queries using window functions  
-- Real-world analytical scenarios  
-- Lightweight and scalable SQL workflows  
+- Analysis of nested Google Analytics datasets
+- Practical use of ARRAY, STRUCT and UNNEST
+- Revenue attribution and conversion insights
+- Business-focused analytics and storytelling
+- Professional project documentation and architecture design
 
-👉 [View Project](https://github.com/aestevaomoraes/duckdb-sql-portfolio)
+**🏆 Business Insights:**
+- Referral channels achieved the highest conversion efficiency
+- Homepage was the primary revenue entry point
+- Desktop users generated most purchasing sessions
+- Traffic volume did not necessarily translate into conversions
+
+👉 [View Project](https://github.com/aestevaomoraes/google-analytics-revenue-conversion-analysis)
 
 ---
 ## 🔹 Looker Studio + BigQuery Dashboard
