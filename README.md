@@ -283,7 +283,8 @@ I work at the intersection of operations and analytics, supporting decision-maki
 
 ☁️ Modern cloud-based Business Intelligence solution using Google BigQuery and Looker Studio.
 
-![looker-demo](./assets/dashboard.gif)
+
+![Demonstração do Dashboard](https://raw.githubusercontent.com/aestevaomoraes/looker-studio-bigquery-dashboard/main/assets/dashboard-demo.gif)
 
 **🔧 Tech:**
 - Google BigQuery
