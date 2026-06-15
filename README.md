@@ -308,11 +308,43 @@ I work at the intersection of operations and analytics, supporting decision-maki
 - SQL transformations and business rules implementation  
 
 👉 [View Project](https://github.com/aestevaomoraes/looker-studio-bigquery-dashboard)
+
 ---
 
-🔗 Repositórios
-🚚 Transportadora Operations Analytics
-https://github.com/aestevaomoraes/transportadora-operations-analytics
+## 🔹 Transportadora Operations Analytics
+
+🚚 Solução analítica completa para monitoramento operacional e financeiro de uma transportadora utilizando PostgreSQL (Neon), SQL Analytics e Looker Studio.
+
+![Dashboard Executivo](https://raw.githubusercontent.com/aestevaomoraes/transportadora-operations-analytics/main/dashboard/dashboard.png)
+
+**🔧 Tech:**
+- PostgreSQL (Neon)
+- SQL
+- Looker Studio
+- GitHub
+
+**📈 Key Analyses:**
+- Revenue by Region
+- Operational Profit by Region
+- Top Drivers
+- Top Destinations
+- Time Series Analysis
+- Operational Margin Analysis
+
+**💡 Highlights:**
+- 15 documented SQL analyses
+- SQL Views for analytics
+- Window Functions (LAG, RANK, SUM OVER)
+- KPI development
+- Business-focused dashboard
+
+**🏆 Business Impact:**
+- Identification of top-performing regions
+- Operational profitability monitoring
+- Driver performance analysis
+- Strategic decision support
+
+👉 [View Project](https://github.com/aestevaomoraes/transportadora-operations-analytics)
 
 
 ## 📊 GitHub Stats
