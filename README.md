@@ -310,6 +310,11 @@ I work at the intersection of operations and analytics, supporting decision-maki
 👉 [View Project](https://github.com/aestevaomoraes/looker-studio-bigquery-dashboard)
 ---
 
+🔗 Repositórios
+🚚 Transportadora Operations Analytics
+https://github.com/aestevaomoraes/transportadora-operations-analytics
+
+
 ## 📊 GitHub Stats
 
 <p align="center">
