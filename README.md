@@ -315,7 +315,8 @@ I work at the intersection of operations and analytics, supporting decision-maki
 
 🚚 Solução analítica completa para monitoramento operacional e financeiro de uma transportadora utilizando PostgreSQL (Neon), SQL Analytics e Looker Studio.
 
-![Dashboard Executivo](https://raw.githubusercontent.com/aestevaomoraes/transportadora-operations-analytics/main/dashboard/dashboard.png)
+![Dashboard Executivo](https://raw.githubusercontent.com/aestevaomoraes/transportadora-operations-analytics/main/dashboard/dashboard_linkedin.gif)
+
 
 **🔧 Tech:**
 - PostgreSQL (Neon)
