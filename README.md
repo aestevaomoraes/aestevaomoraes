@@ -1,126 +1,94 @@
-# 👋 Hello, I'm Antonio Estevão Moraes
+# Hi, I'm Antonio Estevão Moraes
 
-🎯 Telecom Operations Specialist | Analytics Engineering | Data & Automation
+**Operations Analytics | Analytics Engineering | Telecom Operations**
 
-📍 Brazil
+Brazil · SQL · Python · dbt · BigQuery · DuckDB · Business Intelligence
 
----
+## About me
 
-![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=googlebigquery&logoColor=white)
-![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
-![Looker Studio](https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=looker&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Analytics Engineering](https://img.shields.io/badge/Analytics_Engineering-FF6F00?style=for-the-badge&logo=dbt&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+I bring more than 23 years of experience in telecommunications operations, performance monitoring, and service management. My work connects operational knowledge with data analysis, process automation, and the development of reliable business metrics.
 
----
+My portfolio focuses on translating business questions into SQL analyses, data models, and dashboards, with applications in SLA monitoring, backlog management, revenue analysis, and operational performance.
 
-## 🚀 About Me
+**Professional focus:** Analytics Engineering, Operations Analytics, data modeling, and automation.
 
-Telecom Operations Specialist (25+ years) bridging operations and analytics. I turn operational data into actionable insights, automate processes, and improve performance metrics such as SLA, backlog, and MTTR.
+## Technical skills
 
-**Focus areas:** Analytics Engineering · Data Modeling · Business Intelligence · Process Automation
+| Area | Technologies and practices |
+| --- | --- |
+| Analytics Engineering | dbt Core, staging/intermediate/marts, dimensional modeling, data tests, and lineage with `source()` and `ref()` |
+| SQL & analytical databases | BigQuery, PostgreSQL, DuckDB, CTEs, joins, window functions, aggregations, ARRAY, STRUCT, and UNNEST |
+| Python & statistics | pandas, NumPy, SciPy, exploratory analysis, visualization, and hypothesis testing |
+| Business Intelligence & automation | Power BI, DAX, Power Query, Looker Studio, AWS QuickSight, Excel, and Power Automate |
+| Development | Git, GitHub, GitHub Codespaces, VS Code, and Jupyter |
 
----
+## Selected projects
 
-## 💼 Experience Highlights
+### [Telco Analytics Platform](https://github.com/aestevaomoraes/telco-analytics-platform)
 
-- 25+ years in telecom operations and performance monitoring
-- Strong background in SLA management, backlog control, and service operations
-- Building data pipelines and dashboards that reduce manual work and support decision-making
+**DuckDB · dbt Core · Python · Parquet**
 
----
+Operational analytics using 10,000 synthetic telemetry events. The documented implementation includes a staging model and an aggregated data mart for SLA breach analysis by network node, supported by Python visualizations. The project is under development.
 
-## 🧠 Tech Stack
+### [Commerce Analytics](https://github.com/aestevaomoraes/commerce-analytics-dbt-bigquery)
 
-| Area | Technologies |
-|------|--------------|
-| **Analytics Engineering** | dbt Core, BigQuery, Medallion Architecture, Data Contracts, CI/CD |
-| **Data Analytics** | SQL (CTEs, Window Functions), Looker Studio, Power BI (DAX), Excel |
-| **Data Science** | Python (pandas, numpy, scikit-learn), Statistics & Hypothesis Testing |
-| **Tools** | Git & GitHub, VS Code, Power Automate, AWS QuickSight |
+**dbt Core · BigQuery · SQL · YAML**
 
----
+Layered transformation pipeline over the public TheLook E-Commerce dataset. Includes order-level financial aggregation, gross margin calculations, and the `fct_orders` and `dim_customers` models. The repository documents 24 data tests covering uniqueness, nullability, relationships, and accepted values.
 
-## 🏆 Featured Projects
+### [Austin Bikeshare Analytics](https://github.com/aestevaomoraes/austin-bikeshare-analytics-dbt-bigquery)
 
-### 📊 Austin Bikeshare Analytics (dbt + BigQuery)
-Analytics Engineering pipeline with time-series modeling, window functions, partitioned tables, and GitHub Actions CI/CD.
+**dbt Core · BigQuery · SQL · Jinja**
 
-**Tech:** dbt Core · BigQuery · GitHub Actions  
-👉 [View Project](https://github.com/aestevaomoraes/austin-bikeshare-analytics-dbt-bigquery)
+Analytics pipeline over a dataset documented at more than 2.9 million trips. Includes staging and intermediate transformations, station and trip models, a monthly station summary, temporal categorization, and separate development and production targets.
 
----
+### [Transportadora Operations Analytics](https://github.com/aestevaomoraes/transportadora-operations-analytics)
 
-### 📊 Commerce Analytics Platform (dbt + BigQuery)
-End-to-end Analytics Engineering platform using Medallion Architecture, data contracts, and CI/CD on TheLook E-Commerce dataset.
+**PostgreSQL · SQL · Looker Studio**
 
-**Tech:** dbt Core · BigQuery · Data Contracts  
-👉 [View Project](https://github.com/aestevaomoraes/commerce-analytics-dbt-bigquery)
+Educational logistics scenario combining analytical views, operational and financial KPIs, and an executive dashboard. Includes 15 documented SQL analyses covering routes, drivers, revenue, margins, rankings, and temporal trends.
 
----
+### [Google Analytics Revenue & Conversion Analysis](https://github.com/aestevaomoraes/google-analytics-revenue-conversion-analysis)
 
-### 📊 Google Analytics Revenue & Conversion Analysis
-Transforming nested Google Analytics data into business insights with advanced SQL (ARRAY, STRUCT, UNNEST).
+**BigQuery · SQL · ARRAY · STRUCT · UNNEST**
 
-**Tech:** BigQuery · SQL  
-👉 [View Project](https://github.com/aestevaomoraes/google-analytics-revenue-conversion-analysis)
+Analysis of nested and repeated session data from the public Google Analytics sample dataset. Queries explore conversion, revenue, acquisition channels, landing pages, devices, and engagement.
 
----
+### [DuckDB SQL Portfolio](https://github.com/aestevaomoraes/duckdb-sql-portfolio)
 
-### 📊 Looker Studio + BigQuery Dashboard
-Modern cloud-native BI solution with interactive dashboards, SQL views, and calculated fields.
+**DuckDB · Python · pandas · GitHub Codespaces**
 
-![Dashboard Demo](https://raw.githubusercontent.com/aestevaomoraes/looker-studio-bigquery-dashboard/main/assets/dashboard-demo.gif)
+Reproducible SQL study environment with CSV loading and table registration in DuckDB. Includes reusable SQL scripts and notebooks for joins, aggregations, window functions, rankings, and exploratory analysis.
 
-**Tech:** BigQuery · Looker Studio · SQL  
-👉 [View Project](https://github.com/aestevaomoraes/looker-studio-bigquery-dashboard)
+### Additional technical work
 
----
+- [BigQuery Advanced Aggregations](https://github.com/aestevaomoraes/bigquery-agregacoes-especiais-ecommerce) — Seven documented queries using `APPROX_COUNT_DISTINCT`, `APPROX_QUANTILES`, `ARRAY_AGG`, `STRUCT`, `LOGICAL_AND`, and `LOGICAL_OR`.
+- [Loja Premium Sales Analytics](https://github.com/aestevaomoraes/looker-bigquery-sales-lojpremium) — Google Sheets, BigQuery SQL views, and Looker Studio, with Brazilian currency string cleaning and type standardization.
+- [Telecom Revenue Analysis](https://github.com/aestevaomoraes/t-test-salary-analysis) — Educational comparison of ARPU between customer plans using synthetic data, Python, pandas, and Welch's t-test.
+- [AWS QuickSight Analytics Dashboard](https://github.com/aestevaomoraes/aws-quicksight-analytics-dashboard) — Interactive filters, parameters, KPI monitoring, and regional and customer satisfaction analyses.
+- [Looker Studio + BigQuery Dashboard](https://github.com/aestevaomoraes/looker-studio-bigquery-dashboard) — SQL views, calculated fields, and interactive business reporting.
 
-### 📊 Telecom Revenue Analysis (Statistical Hypothesis Testing)
-Analyzed whether premium customers generate higher ARPU using t-tests and statistical validation.
+[Browse all public repositories](https://github.com/aestevaomoraes?tab=repositories)
 
-**Tech:** Python · pandas · SciPy  
-👉 [View Project](https://github.com/aestevaomoraes/t-test-salary-analysis)
+## Learning & development
 
----
+**Completed learning tracks**
 
-### 📊 Transportadora Operations Analytics
-Full operational and financial analytics solution for a logistics company using PostgreSQL and Looker Studio.
+- DataCamp — Associate Data Analyst in SQL
+- DataCamp — Data Analyst in Python
+- DataCamp — Data Analyst in Databricks
+- DataCamp — dbt Fundamentals
 
-**Tech:** PostgreSQL · SQL · Looker Studio  
-👉 [View Project](https://github.com/aestevaomoraes/transportadora-operations-analytics)
+**Current learning priorities**
 
----
+- DuckDB + Polars for Operations Analytics, with advanced dbt practice
+- Continued development in Python, statistics, and Data Science
 
-## 🎓 Certifications
+**Study lab:** [Databricks Lab](https://github.com/aestevaomoraes/databricks-lab) — SQL, Python, PySpark, Delta Lake, and Lakehouse studies.
 
-- **DataCamp** — Associate Data Analyst in SQL · Associate Data Scientist in Python (in progress)
-- **Power BI** — Formação Completa em Power BI · Power BI Specialist
-- **Udemy** — Estatística para Análise de Dados · Álgebra Linear para ML · SQL para Análise de Dados · AWS QuickSight
-- **LinkedIn Learning** — Fundamentos de Estatística
+## Contact
 
----
+Interested in technical exchanges and collaboration on analytics, automation, and operational data projects.
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aestevaomoraes&show_icons=true&theme=github_dark&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aestevaomoraes&layout=compact&theme=github_dark&hide_border=true"/>
-</p>
-
----
-
-## 📫 Contact
-
-Open to opportunities and collaborations.
-
-- **LinkedIn:** [Antonio Neto](https://www.linkedin.com/in/antonio-neto-09518686/)
-- **Email:** aestevao@gmail.com
-
----
-
-**Career Goal:** Deliver measurable business impact through analytics engineering, automation, and data-driven decision making.
+- [LinkedIn — Antonio Neto](https://www.linkedin.com/in/antonio-neto-09518686/)
+- Email: aestevao@gmail.com
