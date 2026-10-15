@@ -1,358 +1,114 @@
 # 👋 Hello, I'm Antonio Estevão Moraes
 
-🎯 Telecom Operations Specialist | Data & Analytics | AI & Automation
+🎯 Telecom Operations Specialist | Analytics Engineering | Data & Automation
 
-📍 Brazil  
+📍 Brazil
 
 ---
+
 ![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=googlebigquery&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
 ![Looker Studio](https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=looker&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Data Science](https://img.shields.io/badge/Data_Science-8A2BE2?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Analytics Engineering](https://img.shields.io/badge/Analytics_Engineering-FF6F00?style=for-the-badge&logo=dbt&logoColor=white)
-![AWS QuickSight](https://img.shields.io/badge/AWS_QuickSight-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-![Power Automate](https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white)
-![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 
 ---
 
 ## 🚀 About Me
 
-Telecom Operations Specialist with strong experience in data analysis, automation, and process optimization, focused on improving operational efficiency through data analysis, automation, and process optimization.
+Telecom Operations Specialist (25+ years) bridging operations and analytics. I turn operational data into actionable insights, automate processes, and improve performance metrics such as SLA, backlog, and MTTR.
 
-I work at the intersection of operations and analytics, supporting decision-making with data-driven insights and performance monitoring.
+**Focus areas:** Analytics Engineering · Data Modeling · Business Intelligence · Process Automation
 
-## 💼 Professional Background
+---
 
-- 25+ years of experience in telecom operations  
-- Experience in operational management and performance monitoring  
-- Strong background in SLA, backlog control, and service operations  
-- Experience leading and supporting teams and projects through operational and data-driven initiatives.
-  
-💡 I focus on:
-- Improving operational performance (SLA, backlog, MTTR)
-- Automating processes and reducing manual workload
-- Turning data into actionable insights for decision-making  
+## 💼 Experience Highlights
+
+- 25+ years in telecom operations and performance monitoring
+- Strong background in SLA management, backlog control, and service operations
+- Building data pipelines and dashboards that reduce manual work and support decision-making
 
 ---
 
 ## 🧠 Tech Stack
 
-### Operations & Performance
-- SLA Monitoring  
-- Backlog Management  
-- Operational KPIs
-
-### Data Science
-- Python (pandas, numpy, scikit-learn)
-- Machine Learning (Regression, Classification)
-- Statistics & Hypothesis Testing  
-
-### Data Analytics
-- SQL (Joins, CTEs, Window Functions)
-- Power BI (Dashboards, DAX)
-- Excel  
-
-### Tools & Engineering
-- Git & GitHub  
-- VS Code  
-- Docker (basic knowledge)  
+| Area | Technologies |
+|------|--------------|
+| **Analytics Engineering** | dbt Core, BigQuery, Medallion Architecture, Data Contracts, CI/CD |
+| **Data Analytics** | SQL (CTEs, Window Functions), Looker Studio, Power BI (DAX), Excel |
+| **Data Science** | Python (pandas, numpy, scikit-learn), Statistics & Hypothesis Testing |
+| **Tools** | Git & GitHub, VS Code, Power Automate, AWS QuickSight |
 
 ---
 
-## 🏆 Key Certifications
+## 🏆 Featured Projects
 
-- 🎓 DataCamp  
-  - Associate Data Analyst in SQL  
-  - Associate Data Scientist in Python *(in progress)*  
+### 📊 Austin Bikeshare Analytics (dbt + BigQuery)
+Analytics Engineering pipeline with time-series modeling, window functions, partitioned tables, and GitHub Actions CI/CD.
 
-- 🎓 Datab  
-  - Formação Completa em Power BI  
-  - Power BI Specialist  
-
-- 🎓 Udemy
-  -  Estatística para Análise de Dados com Python - Data Scientist. Luciano Galdino
-  -  Álgebra Linear com Python para Machine Learning e Modelagem - Data Scientist. Luciano Galdino
-  -  Python Data Science: Data Prep & EDA with Python - Data Scientist. Alice Zhao
-  -  SQL para Análise de Dados - Midori Toyota
-  -  AWS QuickSight: Dashboards Profissionais - Midori Toyota
- 
-- 🎓 LinkedIn Learning
-  -  Fundamentos de Estatística (1,2,3) Eddie Davila
+**Tech:** dbt Core · BigQuery · GitHub Actions  
+👉 [View Project](https://github.com/aestevaomoraes/austin-bikeshare-analytics-dbt-bigquery)
 
 ---
 
-# 📈 Operational & Data Projects
+### 📊 Commerce Analytics Platform (dbt + BigQuery)
+End-to-end Analytics Engineering platform using Medallion Architecture, data contracts, and CI/CD on TheLook E-Commerce dataset.
+
+**Tech:** dbt Core · BigQuery · Data Contracts  
+👉 [View Project](https://github.com/aestevaomoraes/commerce-analytics-dbt-bigquery)
 
 ---
 
-## 🔹 Repair Operations Dashboard
+### 📊 Google Analytics Revenue & Conversion Analysis
+Transforming nested Google Analytics data into business insights with advanced SQL (ARRAY, STRUCT, UNNEST).
 
-📊 Nationwide monitoring of repair operations and service performance  
-
-![repair-demo](./assets/repair.gif)
-
-**🔧 Tech:**
-- Power BI  
-- DAX  
-- Data Modeling  
-
-**📈 Key Metrics:**
-- Mean Time to Repair (MTTR)  
-- Backlog of Open Requests  
-- SLA Compliance  
-- Performance by Region  
-
-**💡 Highlights:**
-- Identification of operational bottlenecks impacting SLA performance 
-- Regional performance analysis  
-- SLA monitoring enabling faster response to delays  
-
-🔎 **[View Project Details](./projects/powerbi-repair-operations)**
-
-
----
-
-## 🔹 CPE Operations Dashboard
-
-📊 Monitoring of telecom equipment lifecycle and service operations  
-
-![cpe-demo](./assets/cpe.gif)
-
-**🔧 Tech:**
-- Power BI  
-- DAX  
-- Data Modeling  
-
-**📈 Key Metrics:**
-- Service Orders (OS)  
-- Installations vs Removals  
-- Repair Status  
-- Scheduling Performance  
-
-**💡 Highlights:**
-- CPE lifecycle management  
-- Partner performance analysis  
-- Repair and scheduling tracking  
-- Identification of inefficiencies in equipment lifecycle and operations  
-🔎 **[View Project Details](./projects/powerbi-cpe-operations)**
-
----
-
-## 🔹 Circuit Migration Dashboard
-
-📊 Monitoring the migration of proprietary circuits to partner providers, focusing on SLA, backlog, and operational performance.  
-
-![migration-demo](./assets/migration.gif)
-
-**🔧 Tech:**
-- Power BI  
-- DAX  
-- Data Modeling  
-- Power Automate  
-
-**📈 Key Metrics:**
-- Total Service Orders (OS)  
-- Backlog of Open Orders  
-- Mean Time to Install (TMI)  
-- SLA Compliance  
-
-**💡 Highlights:**
-- Migration performance by partner providers  
-- Backlog and delay analysis  
-- SLA monitoring and execution time tracking  
-- Geographic distribution of service orders  
-
-**⚙️ Automation:**
-- Automated distribution of backlog OS to partner providers  
-- Priority-based email notifications  
-- End-to-end workflow automation (analysis → decision → execution)
-
-**💼 Operational Impact:**
-- Reduced manual workload through automation  
-- Improved prioritization of service orders  
-- Increased operational efficiency and response time
-
-🔎 **[View Project Details](./projects/powerbi-migration-management)**
-
-
----
-
-## 🔹 Telecom Revenue Analysis (T-Test)
-
-📊 Analyze whether premium customers generate higher average revenue (ARPU) compared to standard customers  
-
-![ARPU Distribution](https://raw.githubusercontent.com/aestevaomoraes/t-test-salary-analysis/main/notebooks/arpu_distribution.png)
-
-**💼 Business Impact:**
-- Supports strategic decisions on upsell and pricing  
-- Enables better customer segmentation based on revenue behavior  
-
-**🔧 Tech:**
-- Python, pandas, SciPy, matplotlib  
-
-**📈 Results:**
-- Statistically significant difference identified between premium and standard customers  
-- Premium segment shows higher average revenue (ARPU)  
-
-**💡 Business Impact:**
-- Supports data-driven upsell strategies  
-- Helps optimize revenue and customer targeting  
-
-👉 [View Project](https://github.com/aestevaomoraes/t-test-salary-analysis)
-
----
-
-## 🔹 Telecom Operations Analytics (AI + Automation)
-
-🤖 Automate operational analysis, SLA reporting, and email delivery using AI and prompt engineering  
-
----
-
-**🔧 Tech:**
-
-- Python, Pandas  
-- Prompt Engineering (AI - Antigravity)  
-- Automation workflows  
-- Email automation (automated report delivery)  
-
----
-
-**📈 Results:**
-
-- Automated generation of operational reports  
-- Automated email delivery of reports 📧  
-- Faster SLA analysis and decision support  
-- Significant reduction in manual analysis effort  
-
----
-
-**💡 Business Impact:**
-
-- Improves operational efficiency  
-- Enables real-time and consistent reporting  
-- Reduces manual workload in report distribution  
-- Supports faster, data-driven decision-making in telecom operations    
-
-👉 [View Project](https://github.com/aestevaomoraes/projeto-analise-bd-online)
-
----
-
-## 🔹 Google Analytics Revenue & Conversion Analytics with BigQuery
-
-📊 Business-oriented analytics project transforming nested Google Analytics data into actionable business insights using BigQuery SQL.
-
-![Project Architecture](https://raw.githubusercontent.com/aestevaomoraes/google-analytics-revenue-conversion-analysis/main/images/project_architecture.png)
-
-**🔧 Tech:**
-- Google BigQuery
-- SQL
-- ARRAY
-- STRUCT
-- UNNEST()
-- CTEs
-
-**📈 Key Analyses:**
-- Revenue Analysis
-- Conversion Analysis
-- Landing Page Performance
-- Acquisition Channel Performance
-- Device Conversion Analysis
-- User Engagement Analysis
-
-**💡 Highlights:**
-- Analysis of nested Google Analytics datasets
-- Practical use of ARRAY, STRUCT and UNNEST
-- Revenue attribution and conversion insights
-- Business-focused analytics and storytelling
-- Professional project documentation and architecture design
-
-**🏆 Business Insights:**
-- Referral channels achieved the highest conversion efficiency
-- Homepage was the primary revenue entry point
-- Desktop users generated most purchasing sessions
-- Traffic volume did not necessarily translate into conversions
-
+**Tech:** BigQuery · SQL  
 👉 [View Project](https://github.com/aestevaomoraes/google-analytics-revenue-conversion-analysis)
 
 ---
-## 🔹 Looker Studio + BigQuery Dashboard
 
-☁️ Modern cloud-based Business Intelligence solution using Google BigQuery and Looker Studio.
+### 📊 Looker Studio + BigQuery Dashboard
+Modern cloud-native BI solution with interactive dashboards, SQL views, and calculated fields.
 
+![Dashboard Demo](https://raw.githubusercontent.com/aestevaomoraes/looker-studio-bigquery-dashboard/main/assets/dashboard-demo.gif)
 
-![Demonstração do Dashboard](https://raw.githubusercontent.com/aestevaomoraes/looker-studio-bigquery-dashboard/main/assets/dashboard-demo.gif)
-
-**🔧 Tech:**
-- Google BigQuery
-- Looker Studio
-- SQL
-- Cloud Analytics
-
-**📈 Features:**
-- Interactive dashboard
-- KPI cards
-- Cloud-based analytics
-- SQL Views
-- Calculated Fields
-- Dynamic filters
-
-**💡 Highlights:**
-- Fully cloud-native BI solution  
-- Professional dashboard design  
-- BigQuery + Looker Studio integration  
-- Modern alternative to desktop BI tools  
-- SQL transformations and business rules implementation  
-
+**Tech:** BigQuery · Looker Studio · SQL  
 👉 [View Project](https://github.com/aestevaomoraes/looker-studio-bigquery-dashboard)
 
 ---
 
-## 🔹 Transportadora Operations Analytics
+### 📊 Telecom Revenue Analysis (Statistical Hypothesis Testing)
+Analyzed whether premium customers generate higher ARPU using t-tests and statistical validation.
 
-🚚 Solução analítica completa para monitoramento operacional e financeiro de uma transportadora utilizando PostgreSQL (Neon), SQL Analytics e Looker Studio.
+**Tech:** Python · pandas · SciPy  
+👉 [View Project](https://github.com/aestevaomoraes/t-test-salary-analysis)
 
-![Dashboard Executivo](https://raw.githubusercontent.com/aestevaomoraes/transportadora-operations-analytics/main/dashboard/dashboard_linkedin.gif)
+---
 
+### 📊 Transportadora Operations Analytics
+Full operational and financial analytics solution for a logistics company using PostgreSQL and Looker Studio.
 
-**🔧 Tech:**
-- PostgreSQL (Neon)
-- SQL
-- Looker Studio
-- GitHub
-
-**📈 Key Analyses:**
-- Revenue by Region
-- Operational Profit by Region
-- Top Drivers
-- Top Destinations
-- Time Series Analysis
-- Operational Margin Analysis
-
-**💡 Highlights:**
-- 15 documented SQL analyses
-- SQL Views for analytics
-- Window Functions (LAG, RANK, SUM OVER)
-- KPI development
-- Business-focused dashboard
-
-**🏆 Business Impact:**
-- Identification of top-performing regions
-- Operational profitability monitoring
-- Driver performance analysis
-- Strategic decision support
-
+**Tech:** PostgreSQL · SQL · Looker Studio  
 👉 [View Project](https://github.com/aestevaomoraes/transportadora-operations-analytics)
 
+---
+
+## 🎓 Certifications
+
+- **DataCamp** — Associate Data Analyst in SQL · Associate Data Scientist in Python (in progress)
+- **Power BI** — Formação Completa em Power BI · Power BI Specialist
+- **Udemy** — Estatística para Análise de Dados · Álgebra Linear para ML · SQL para Análise de Dados · AWS QuickSight
+- **LinkedIn Learning** — Fundamentos de Estatística
+
+---
 
 ## 📊 GitHub Stats
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aestevaomoraes&show_icons=true&theme=github_dark&hide_border=true"/>
-  
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aestevaomoraes&layout=compact&theme=github_dark&hide_border=true"/>
 </p>
 
@@ -360,14 +116,11 @@ I work at the intersection of operations and analytics, supporting decision-maki
 
 ## 📫 Contact
 
-💬 Feel free to reach out — I’m open to opportunities and collaborations.
-- LinkedIn Preferred contact: [Antonio Neto](https://www.linkedin.com/in/antonio-neto-09518686/)
-  
-- Email (secondary): aestevao@gmail.com  
+Open to opportunities and collaborations.
 
+- **LinkedIn:** [Antonio Neto](https://www.linkedin.com/in/antonio-neto-09518686/)
+- **Email:** aestevao@gmail.com
 
 ---
 
-## 🎯 Career Goal
-
-To work in data-driven roles, delivering measurable business impact through analytics, automation, and machine learning.
+**Career Goal:** Deliver measurable business impact through analytics engineering, automation, and data-driven decision making.
