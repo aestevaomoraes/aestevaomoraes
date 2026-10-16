@@ -78,6 +78,12 @@ Reproducible SQL study environment with CSV loading and table registration in Du
 - DataCamp — Data Analyst in Python
 - DataCamp — Data Analyst in Databricks
 - DataCamp — dbt Fundamentals
+  
+ **Courses & Professional Development**
+
+- **Power BI** — Formação Completa em Power BI · Power BI Specialist
+- **Udemy** — Estatística para Análise de Dados · Álgebra Linear para ML · SQL para Análise de Dados · AWS QuickSight
+- **LinkedIn Learning** — Fundamentos de Estatística
 
 **Current learning priorities**
 
