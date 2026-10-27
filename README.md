@@ -36,6 +36,12 @@ Operational analytics using 10,000 synthetic telemetry events. The documented im
 
 Layered transformation pipeline over the public TheLook E-Commerce dataset. Includes order-level financial aggregation, gross margin calculations, and the `fct_orders` and `dim_customers` models. The repository documents 24 data tests covering uniqueness, nullability, relationships, and accepted values.
 
+### [Operational Data Update Automation](https://github.com/aestevaomoraes/automacao-estacoes-deaverage)
+
+**Power Automate · Python · Power Query · Excel COM · Windows Task Scheduler**
+
+End-to-end automation of operational data updates including XLSB-to-XLSX conversion, Power Query refresh, ETL refresh, audit logging, scheduling and unattended execution. The solution is fully documented, versioned with Git/GitHub and running in production.
+
 ### [Austin Bikeshare Analytics](https://github.com/aestevaomoraes/austin-bikeshare-analytics-dbt-bigquery)
 
 **dbt Core · BigQuery · SQL · Jinja**
