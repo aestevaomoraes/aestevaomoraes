@@ -66,6 +66,16 @@ Analysis of nested and repeated session data from the public Google Analytics sa
 
 Reproducible SQL study environment with CSV loading and table registration in DuckDB. Includes reusable SQL scripts and notebooks for joins, aggregations, window functions, rankings, and exploratory analysis.
 
+
+### [DuckDB Masterclass — From Fundamentals to Advanced Analytics](https://github.com/aestevaomoraes/duckdb-masterclass)
+
+**DuckDB · Advanced SQL · Python · Jupyter Notebook · Data Engineering**
+
+A hands-on learning project covering DuckDB architecture, advanced SQL analytics, temporal joins, data integration, and query optimization.
+The repository features 14 technical chapters with Jupyter notebooks, guided labs, practical exercises, and Operations Analytics use cases.
+**Status:** Active development and technical validation.
+
+
 ### Additional technical work
 
 - [BigQuery Advanced Aggregations](https://github.com/aestevaomoraes/bigquery-agregacoes-especiais-ecommerce) — Seven documented queries using `APPROX_COUNT_DISTINCT`, `APPROX_QUANTILES`, `ARRAY_AGG`, `STRUCT`, `LOGICAL_AND`, and `LOGICAL_OR`.
