@@ -75,6 +75,12 @@ A hands-on learning project covering DuckDB architecture, advanced SQL analytics
 The repository features 14 technical chapters with Jupyter notebooks, guided labs, practical exercises, and Operations Analytics use cases.
 **Status:** Active development and technical validation.
 
+### [Extreme Data Cleansing — dbt + BigQuery](https://github.com/aestevaomoraes/extreme-data-cleansing-dbt-bigquery)
+
+**DuckDB · dbt Core · BigQuery · GitHub Actions · Streamlit**
+
+End-to-end Analytics Engineering pipeline. A Python/DuckDB generator creates intentionally corrupted data (duplicates, mixed date formats, dirty currency strings, missing values). dbt models in BigQuery clean it through staging, intermediate and marts layers, with multi-currency conversion and an SCD Type 2 customer dimension. Includes 14 data tests, a CI workflow that runs `dbt build` on every pull request, and a [live Streamlit dashboard](https://saneamento-extremo-dbt.streamlit.app) with business KPIs and a data quality audit page.
+
 
 ### Additional technical work
 
